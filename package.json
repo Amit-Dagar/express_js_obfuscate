@@ -1,0 +1,14 @@
+{
+  "name": "enc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "javascript-obfuscator": "^4.0.0",
+    "path": "^0.12.7"
+  }
+}
